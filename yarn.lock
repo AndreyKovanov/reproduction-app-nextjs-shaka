@@ -253,6 +253,11 @@ detect-libc@^2.0.3:
   resolved "https://registry.yarnpkg.com/detect-libc/-/detect-libc-2.0.3.tgz#f0cd503b40f9939b894697d19ad50895e30cf700"
   integrity sha512-bwy0MGW55bG41VqxxypOsdSdGqLwXPI/focwgTYCFMbdUiBAxLg9CFzG08sz2aqzknwiX7Hkl0bQENjg8iLByw==
 
+eme-encryption-scheme-polyfill@^2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/eme-encryption-scheme-polyfill/-/eme-encryption-scheme-polyfill-2.2.1.tgz#1f9db4ce8690a7150bc1ba80bd1519b8486e3443"
+  integrity sha512-GzgrLuZPYGijd8oaKuBqYv3Tc2oruDZM3V2982KOuy/PA1N3zwMe+/oIXJYfZ3BH3PwW5nONdBBE+VY6jlwbrw==
+
 is-arrayish@^0.3.1:
   version "0.3.2"
   resolved "https://registry.yarnpkg.com/is-arrayish/-/is-arrayish-0.3.2.tgz#4574a2ae56f7ab206896fb431eaeed066fdf8f03"
@@ -321,6 +326,13 @@ semver@^7.7.1:
   version "7.7.1"
   resolved "https://registry.yarnpkg.com/semver/-/semver-7.7.1.tgz#abd5098d82b18c6c81f6074ff2647fd3e7220c9f"
   integrity sha512-hlq8tAfn0m/61p4BVRcPzIGr6LKiMwo4VM6dGi6pt4qcRkmNzTcWq6eCEjEh+qXjkMDvPlOFFSGwQjoEa6gyMA==
+
+shaka-player@^4.14.9:
+  version "4.14.9"
+  resolved "https://registry.yarnpkg.com/shaka-player/-/shaka-player-4.14.9.tgz#66c6fe7437ae40b7bbbdb96ae4251998b62595ae"
+  integrity sha512-0YZJ+UUHBz3meAzN/eOvjNoLH7eCG1yHP3BFH8ZnFbGf3K50DgLWNMoV6bm6pH4cndvXem+SdcQRXabItD4RBA==
+  dependencies:
+    eme-encryption-scheme-polyfill "^2.2.1"
 
 sharp@^0.34.1:
   version "0.34.1"
