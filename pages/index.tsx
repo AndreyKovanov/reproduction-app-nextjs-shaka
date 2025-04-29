@@ -1,6 +1,6 @@
 import { VideoPlayer } from '@/src/VideoPlayer';
 
-const STREAM_MANIFEST = 'https://storage.googleapis.com/shaka-demo-assets/bbb-dark-truths-hls/hls.m3u8';
+const STREAM_MANIFEST = 'https://shaka-player-test.s3.ap-south-1.amazonaws.com/video/video.m3u8';
 
 /** Add your relevant code here for the issue to reproduce */
 export default function Home() {

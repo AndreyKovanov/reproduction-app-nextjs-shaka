@@ -52,7 +52,10 @@ export const ShakaPlayer: FC<ShakaPlayerProps> = ({ src }) => {
 
   useEffect(() => {
     if (player && src) {
-      player.load(src);
+      // Safari needs some time to break polyfill
+      setTimeout(() => {
+        player.load(src);
+      }, 3000)
     }
   }, [player, src]);
 

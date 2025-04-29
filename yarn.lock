@@ -127,50 +127,50 @@
   resolved "https://registry.yarnpkg.com/@img/sharp-win32-x64/-/sharp-win32-x64-0.34.1.tgz#8a7922fec949f037c204c79f6b83238d2482384b"
   integrity sha512-hw1iIAHpNE8q3uMIRCgGOeDoz9KtFNarFLQclLxr/LK1VBkj8nby18RjFvr6aP7USRYAjTZW6yisnBWMX571Tw==
 
-"@next/env@15.4.0-canary.3":
-  version "15.4.0-canary.3"
-  resolved "https://registry.yarnpkg.com/@next/env/-/env-15.4.0-canary.3.tgz#49e6544ee74de0aa32234a473620d36efd3e0e76"
-  integrity sha512-lu4pB2e3Z/d+B0rxEm9YuQMb57Hd96iJUBZgVlcRNemlIryr0GByu17kvN6nBk3JjbWL8h+MW90stpGzGdhbqg==
+"@next/env@15.4.0-canary.14":
+  version "15.4.0-canary.14"
+  resolved "https://registry.yarnpkg.com/@next/env/-/env-15.4.0-canary.14.tgz#ae2e529ac5fbc18bdaf96c0741e258e9f4b41f03"
+  integrity sha512-ynXM3n0AEcB1mwoOLgar27s/WoFyX0C8kpbfpc6bylq2rfS+q+KNla1WAVX3QdHyV82KyrqdMQAFOIyTZg4K9A==
 
-"@next/swc-darwin-arm64@15.4.0-canary.3":
-  version "15.4.0-canary.3"
-  resolved "https://registry.yarnpkg.com/@next/swc-darwin-arm64/-/swc-darwin-arm64-15.4.0-canary.3.tgz#aa5e948000b2acfeac8261cd6110a291c50848c2"
-  integrity sha512-w9u8IpwLb/JS7HzHLt24smP4FxIYMgciOtYNUCognO1xh1XZfqqjDIrRAXDuuYDPKrc1i2EvI24R5eDTz7EYMQ==
+"@next/swc-darwin-arm64@15.4.0-canary.14":
+  version "15.4.0-canary.14"
+  resolved "https://registry.yarnpkg.com/@next/swc-darwin-arm64/-/swc-darwin-arm64-15.4.0-canary.14.tgz#114fe867d310f5e23dca9d38e41e4c4c9d817838"
+  integrity sha512-p62YaNcigaJlZ6IIubZPT+S4N0CXXkjqdIbC2Otr6LLxWsvdkHRgWaPLHauCxWw0zS7jczKY1w4ZfyX9l26sIQ==
 
-"@next/swc-darwin-x64@15.4.0-canary.3":
-  version "15.4.0-canary.3"
-  resolved "https://registry.yarnpkg.com/@next/swc-darwin-x64/-/swc-darwin-x64-15.4.0-canary.3.tgz#3af20e5419366e3d010d75a3cb8b8fe9cf69b0fa"
-  integrity sha512-5pL1hBRw8h1XeArzWYjCDERtRFIfrMAz1Nq9m1np8FrTuHclE7xitKKfOJqqmBbO9dWtnZIfA8lZl9bdlNEUZg==
+"@next/swc-darwin-x64@15.4.0-canary.14":
+  version "15.4.0-canary.14"
+  resolved "https://registry.yarnpkg.com/@next/swc-darwin-x64/-/swc-darwin-x64-15.4.0-canary.14.tgz#bc718a57d67844722a9bea1fd1468269cf0e2fff"
+  integrity sha512-PQ4z01gYCeYzP4NpFKBvg0slDu/CZ+vrpin6+O5XfzGOOdBCUqlJWK78ZTlfs8eTjVWnvVEi2FsTnbW5BZ0yiA==
 
-"@next/swc-linux-arm64-gnu@15.4.0-canary.3":
-  version "15.4.0-canary.3"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-15.4.0-canary.3.tgz#2f587e3aab1e82a8188d4032fb5124dcef6febdb"
-  integrity sha512-vx6cU4jKoecF2QZw3CQqJrzb+D0WhNzHHoWUN8O+YKPnX0oG4wEtAQWSWisxKjNrU1U4TiraOql0nOQBUOKwaQ==
+"@next/swc-linux-arm64-gnu@15.4.0-canary.14":
+  version "15.4.0-canary.14"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-15.4.0-canary.14.tgz#3b5bc4f5fc813d68b7e5164a9b5e41327016209f"
+  integrity sha512-u/eeGK9okYiJ24aLcrq2jOCyOnjhzOM/MkcOOMkzE4/Rp7EKIepnGUhnIcLeLmcQw4RCDAjh3QZBqt5rQEm4fA==
 
-"@next/swc-linux-arm64-musl@15.4.0-canary.3":
-  version "15.4.0-canary.3"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-musl/-/swc-linux-arm64-musl-15.4.0-canary.3.tgz#df3b92c9f731e17f6aac717baf8fbc4ac708cf1c"
-  integrity sha512-7ig1sQHRRgTrj4QHt5l8OT1z2SJnEAHbnEY9SDP2HilwQIfgOAOxveFDBR+f/8AMdAKhCTSeMyrZsivpC0xTUA==
+"@next/swc-linux-arm64-musl@15.4.0-canary.14":
+  version "15.4.0-canary.14"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-musl/-/swc-linux-arm64-musl-15.4.0-canary.14.tgz#b96d22d840076bfe9d9cee2c88c6ee159de0b327"
+  integrity sha512-6eODbSA592cYMYtBU9Vm2D8ApXn6dBh/cN7GQlsTiDBIlCId9Z8DlkGCDj/9thr0JEluUlkt379+B19BGxsCEg==
 
-"@next/swc-linux-x64-gnu@15.4.0-canary.3":
-  version "15.4.0-canary.3"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-15.4.0-canary.3.tgz#4f2d1b12602565e8e129ae413ab2f0173a62ee26"
-  integrity sha512-fML6pzNX9i3DlrCOdE6A1TbVL0aIQkIDDCjrbn/f37hOn88god1OrVd/d4J4w1YqLKQWpmJPnUn6Bkn8qXqbRw==
+"@next/swc-linux-x64-gnu@15.4.0-canary.14":
+  version "15.4.0-canary.14"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-15.4.0-canary.14.tgz#d65327f7a52d17122575d83228a75c6f3acdff99"
+  integrity sha512-FwOtQDbMLJmGPCg8p1ZilCBjfjBZGBRwXnWmxLmpO4lcWTWMFTCfAxkqCUi62zXBZUJztqT8TgXQ9VBk4BKukQ==
 
-"@next/swc-linux-x64-musl@15.4.0-canary.3":
-  version "15.4.0-canary.3"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-15.4.0-canary.3.tgz#5718e87dc19fdcee545fa6391eff4832e26f398b"
-  integrity sha512-87/JPkbr3fgvASdWW2qBVuaXwcjSxgy+CTllj2DgYB7e7BEzT7QJEdj0HJZljBjVbN5oT1FOKwhaVRgRWuwYLQ==
+"@next/swc-linux-x64-musl@15.4.0-canary.14":
+  version "15.4.0-canary.14"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-15.4.0-canary.14.tgz#34350a272801d46195bdce55fc65230850f0f3bd"
+  integrity sha512-0k8lkaryoYsB4wksRm/5SlWWtJjuq6vOzQ/zqKRlNdpNvsvzZ61sEaCLZn1zdcFcUVH6wSzK/GMclcpn2w0VAg==
 
-"@next/swc-win32-arm64-msvc@15.4.0-canary.3":
-  version "15.4.0-canary.3"
-  resolved "https://registry.yarnpkg.com/@next/swc-win32-arm64-msvc/-/swc-win32-arm64-msvc-15.4.0-canary.3.tgz#76fa7efee131099ed9e8d37645a975ed79312f57"
-  integrity sha512-cTZh72h3ZX8z0lhdVs5m38uyy83mW5r0jz6hKagysPT06uTdOAypK6CRqG5CJSN7RM0n7CkfcO6ExjDqhkDhRA==
+"@next/swc-win32-arm64-msvc@15.4.0-canary.14":
+  version "15.4.0-canary.14"
+  resolved "https://registry.yarnpkg.com/@next/swc-win32-arm64-msvc/-/swc-win32-arm64-msvc-15.4.0-canary.14.tgz#2e34188356d8863d29ddb47247517c02d08183cc"
+  integrity sha512-Kih/2CNMpegubEJT8xoigF+hMihetcFEwWXINfPoO534GQax4o1HU56aai6YgFYCvcrb9fAmW2vVagCQx3GS2g==
 
-"@next/swc-win32-x64-msvc@15.4.0-canary.3":
-  version "15.4.0-canary.3"
-  resolved "https://registry.yarnpkg.com/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-15.4.0-canary.3.tgz#e43897efdbce1d371a34748dc389edd6494bbf2b"
-  integrity sha512-8oZKOKRGad4EVZ94L5Sz2EP59khHIeKGKg+/z8r5mCbBtupLPTXmWjrXoi1R55hHRXJjbW2D5NwcPfJn/ltZ3Q==
+"@next/swc-win32-x64-msvc@15.4.0-canary.14":
+  version "15.4.0-canary.14"
+  resolved "https://registry.yarnpkg.com/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-15.4.0-canary.14.tgz#ec72bb270be3a378f57ffeeec4ceb01e1f3610a9"
+  integrity sha512-iOTIfyhrUDDIFH0BA0ZAek8XEK2Wgtbg1QOiqzTU7QPasn28lK/b2bHI+stFrGfz6u1NZw9V/B+/D+o9lzSWKQ==
 
 "@swc/counter@0.1.3":
   version "0.1.3"
@@ -197,13 +197,6 @@
   integrity sha512-oxLPMytKchWGbnQM9O7D67uPa9paTNxO7jVoNMXgkkErULBPhPARCfkKL9ytcIJJRGjbsVwW4ugJzyFFvm/Tiw==
   dependencies:
     csstype "^3.0.2"
-
-busboy@1.6.0:
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/busboy/-/busboy-1.6.0.tgz#966ea36a9502e43cdb9146962523b92f531f6893"
-  integrity sha512-8SFQbg/0hQ9xy3UNTB0YEnsNBbWfhf7RtnzpL7TkBiTBRfrQ9Fxcnz7VJsleJpyp6rVLvXiuORqjlHi5q+PYuA==
-  dependencies:
-    streamsearch "^1.1.0"
 
 caniuse-lite@^1.0.30001579:
   version "1.0.30001715"
@@ -269,26 +262,25 @@ nanoid@^3.3.6:
   integrity sha512-N8SpfPUnUp1bK+PMYW8qSWdl9U+wwNWI4QKxOYDy9JAro3WMX7p2OeVRF9v+347pnakNevPmiHhNmZ2HbFA76w==
 
 next@canary:
-  version "15.4.0-canary.3"
-  resolved "https://registry.yarnpkg.com/next/-/next-15.4.0-canary.3.tgz#06c551fc3208e2ae5566e5e4b0e01820a80e4f21"
-  integrity sha512-OkwxAFNQeuE0vNL7tTwU+jm3nf3x3D5DHSmjRlFktsedGtxZiILZTq6UNExNaFBjttR+2Y6oGqRsFWXC4ob1Wg==
+  version "15.4.0-canary.14"
+  resolved "https://registry.yarnpkg.com/next/-/next-15.4.0-canary.14.tgz#6d13b5cca9469ade1e0fbe2bc718e43f1744a8cf"
+  integrity sha512-4/WNK9Uw/Js1QruZhZfUJWTLrXtL7cvVWLDi1PoCcGdVY91b/1U5jNDOt/Vebr/aJ6Xr5aF+PNHUTtcvBFPInw==
   dependencies:
-    "@next/env" "15.4.0-canary.3"
+    "@next/env" "15.4.0-canary.14"
     "@swc/counter" "0.1.3"
     "@swc/helpers" "0.5.15"
-    busboy "1.6.0"
     caniuse-lite "^1.0.30001579"
     postcss "8.4.31"
     styled-jsx "5.1.6"
   optionalDependencies:
-    "@next/swc-darwin-arm64" "15.4.0-canary.3"
-    "@next/swc-darwin-x64" "15.4.0-canary.3"
-    "@next/swc-linux-arm64-gnu" "15.4.0-canary.3"
-    "@next/swc-linux-arm64-musl" "15.4.0-canary.3"
-    "@next/swc-linux-x64-gnu" "15.4.0-canary.3"
-    "@next/swc-linux-x64-musl" "15.4.0-canary.3"
-    "@next/swc-win32-arm64-msvc" "15.4.0-canary.3"
-    "@next/swc-win32-x64-msvc" "15.4.0-canary.3"
+    "@next/swc-darwin-arm64" "15.4.0-canary.14"
+    "@next/swc-darwin-x64" "15.4.0-canary.14"
+    "@next/swc-linux-arm64-gnu" "15.4.0-canary.14"
+    "@next/swc-linux-arm64-musl" "15.4.0-canary.14"
+    "@next/swc-linux-x64-gnu" "15.4.0-canary.14"
+    "@next/swc-linux-x64-musl" "15.4.0-canary.14"
+    "@next/swc-win32-arm64-msvc" "15.4.0-canary.14"
+    "@next/swc-win32-x64-msvc" "15.4.0-canary.14"
     sharp "^0.34.1"
 
 picocolors@^1.0.0:
@@ -375,11 +367,6 @@ source-map-js@^1.0.2:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.2.1.tgz#1ce5650fddd87abc099eda37dcff024c2667ae46"
   integrity sha512-UXWMKhLOwVKb728IUtQPXxfYU+usdybtUrK/8uGE8CQMvrhOpwvzDBwj0QhSL7MQc7vIsISBG8VQ8+IDQxpfQA==
-
-streamsearch@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/streamsearch/-/streamsearch-1.1.0.tgz#404dd1e2247ca94af554e841a8ef0eaa238da764"
-  integrity sha512-Mcc5wHehp9aXz1ax6bZUyY5afg9u2rv5cqQI3mRrYkGC8rW2hM02jWuwjtL++LS5qinSyhj2QfLyNsuc+VsExg==
 
 styled-jsx@5.1.6:
   version "5.1.6"
